@@ -1,4 +1,396 @@
+<div id="topbanner" style="background-color: rgb(0, 43, 113); height: 80px">
+  <h1
+    id="Title"
+    style="
+      color: white;
+      display: flex;
+      justify-content: center;
+      font-size: 50px;
+      text-align: center;
+      align-items: center;
+      list-style: none;
+    "
+  >
+    DEVELOPMENT PROCESS
+  </h1>
+</div>
 
+<div
+  id="main lower banner"
+  style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 300px;
+  "
+>
+  <li
+    id="Pre-Dev"
+    style="
+      background-color: rgb(2, 82, 211);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white">PRE-DEV&#x25BE;</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(2, 82, 211); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Step1"
+    style="
+      background-color: rgb(0, 74, 194);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white; white-space: nowrap">STEP 1&#x25BE;</h1>
+
+    <div style="background-color: white; height: 5%; width: 100%"></div>
+
+    <h1 style="color: white; margin-top: 20px">ANNEX</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(0, 74, 194); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Step2"
+    style="
+      background-color: rgb(1, 70, 181);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white; white-space: nowrap">STEP 2&#x25BE;</h1>
+
+    <div style="background-color: white; height: 5%; width: 100%"></div>
+
+    <h1 style="color: white; margin-top: 20px">ZONING</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(1, 70, 181); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Step3"
+    style="
+      background-color: rgb(3, 69, 175);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white; white-space: nowrap">STEP 3&#x25BE;</h1>
+
+    <div style="background-color: white; height: 5%; width: 100%"></div>
+
+    <h1 style="color: white; margin-top: 20px">SUBDIV</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(3, 69, 175); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Step4"
+    style="
+      background-color: rgb(1, 62, 162);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white; white-space: nowrap">STEP 4&#x25BE;</h1>
+
+    <div style="background-color: white; height: 5%; width: 100%"></div>
+
+    <h1 style="color: white; margin-top: 20px">CIVIL ENG</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(1, 62, 162); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Step5"
+    style="
+      background-color: rgb(2, 60, 153);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white; white-space: nowrap">STEP 5&#x25BE;</h1>
+
+    <div style="background-color: white; height: 5%; width: 100%"></div>
+
+    <h1 style="color: white; margin-top: 20px">BUILDING & CONST</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(2, 60, 153); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+
+  <li
+    id="Post-Dev"
+    style="
+      background-color: rgb(0, 47, 129);
+      height: 100%;
+      width: 100%;
+      text-align: center;
+      list-style: none;
+    "
+  >
+    <h1 style="color: white">POST-DEV&#x25BE;</h1>
+
+    <ul
+      class="dropdown"
+      style="background-color: rgb(0, 47, 129); list-style: none"
+    >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Process</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Code Requirements</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Application</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Schedule</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Checklist</h1></li></a
+      >
+      <a
+        href="https://tx-ferris.civicplus.com/162/Economic-Development-Corporation-EDC"
+        target="_blank"
+        ><li><h1 style="color: white">Payment</h1></li></a
+      >
+    </ul>
+  </li>
+</div>
+
+<style>
   li ul.dropdown {
     width: auto;
     z-index: 999;
@@ -20,3 +412,5 @@
   li ul.dropdown li:hover {
     background-color: rgb(0, 43, 113);
   }
+    
+</style>
