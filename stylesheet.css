@@ -1,4 +1,12 @@
 <style>
+  body {
+    list-style: none;
+  }
+
+  li {
+    list-style: none;
+  }
+
   li ul.dropdown {
     width: auto;
     z-index: 999;
